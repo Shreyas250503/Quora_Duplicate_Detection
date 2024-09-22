@@ -60,6 +60,8 @@ Achieved an accuracy of 94% using the LSTM network.
 + Optimize the LSTM model using hyperparameter tuning.
 + Explore additional features such as POS tagging or syntactic analysis.
 
+### THANKS FOR GIVING IT A READ!🙌 
+
 
 
 
